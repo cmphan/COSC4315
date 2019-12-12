@@ -16,14 +16,21 @@ The "interpreter" program written in C++ will dectect any errors or warnings in 
 ##EXAMPLE
 ###Input: file "tc.py":
 l1 = [1,2,3]
+
 l2 = [4,5,6]
+
 l3 = l1 + l2
+
 print(l3)
 ###Output: file "checkdata_type.l" generates a "tc.out" file:
 l1 = [1,2,3]
+
 l2 = [4,5,6]
+
 l3 = l1 + l2
+
 print(l3)
+
 [1,2,3,4,5,6]
 
 ## Deployment
