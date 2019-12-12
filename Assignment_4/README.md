@@ -46,3 +46,7 @@ Usage format:
 
 Output File:
 File "*.out" with the same name as the input file
+
+## Installation of Flex and Bison 
+
+https://ccm.net/faq/30635-how-to-install-flex-and-bison-under-ubuntu
