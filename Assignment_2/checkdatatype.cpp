@@ -1,6 +1,5 @@
 /*Name: CUONG PHAN
-HomeWork02 - COSC 4315 - Fall_2019
-PSID: 1851430 */
+HomeWork02 - COSC 4315 - Fall_2019 */
 #include<iostream>
 #include<string>
 #include<map>
