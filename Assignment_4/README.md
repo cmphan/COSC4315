@@ -1,4 +1,5 @@
 # COSC 4315 - ASSIGNMENT 4 - Evaluating List Expressions
+Author: Cuong Phan
 
 Create a program to evaluate simple list expressions. The input source code will be: Python. This “interpreter” program will be developed in C++.
 The program will use regular expressionm, flex and bison to recognize identifiers, numbers and strings. 
