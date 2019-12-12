@@ -17,9 +17,6 @@ Input will be given a syntactically correct python program as your input file (p
 The output should be in input filename.out (ex: program1.out) which will print “#warning” or “#error” before the line. 
 For correct statements, nothing is printed. 
 
-```
-Give examples
-```
 
 ### Deployment
 
